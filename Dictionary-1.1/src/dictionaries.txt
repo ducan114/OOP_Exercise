@@ -1,0 +1,8 @@
+Hello	Xin chao
+House	Ngoi nha
+Door	Cua
+Window	Cua so
+Computer	May tinh
+Bag	Tui
+Cat	Meo
+Dog	Cho
